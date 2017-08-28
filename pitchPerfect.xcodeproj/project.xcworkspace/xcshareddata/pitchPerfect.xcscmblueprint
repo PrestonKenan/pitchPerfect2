@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "954B1796A09D49184FA52C0A85E881D423E0AACB",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "63EFE92E9E53FA617785D674C7E2892F3A99F9EB" : 9223372036854775807,
+    "954B1796A09D49184FA52C0A85E881D423E0AACB" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "05907F23-51DE-4F09-9BF5-B2106A9727D3",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "63EFE92E9E53FA617785D674C7E2892F3A99F9EB" : "pitchPerfectFinalProject\/pitchPerfect\/",
+    "954B1796A09D49184FA52C0A85E881D423E0AACB" : "pitchPerfectFinalProject\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "pitchPerfect",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "pitchPerfect.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:PrestonKenan\/PitchPerfect.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "63EFE92E9E53FA617785D674C7E2892F3A99F9EB"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/PrestonKenan\/pitchPerfect2.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "954B1796A09D49184FA52C0A85E881D423E0AACB"
+    }
+  ]
+}
